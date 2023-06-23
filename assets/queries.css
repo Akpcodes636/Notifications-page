@@ -1,0 +1,111 @@
+@media screen and (max-width: 992px){
+.container {
+    margin-top: 0px;
+    height: 95%;
+    margin-bottom: 0px;
+}
+.mark-webber {
+width: 80%;
+}
+.chatbox-img {
+    width: 25%;
+    /* display: flex;
+    align-items: center;
+    justify-content: center; */
+    margin-top: 0.8rem;
+}
+.textbox-para {
+    font-size: 1.5rem;
+}
+.myfirsttournament {
+    font-size: 1.5rem;
+}
+.textbox-timer {
+    font-size: 1.3rem;
+}
+.chatbox-img01 {
+    width: 15%;
+    /* display: flex;
+    align-items: center;
+    justify-content: center; */
+    margin-top: 0.8rem;
+}
+.AngelaGray {
+    width: 80%;
+    /* background-color: blue; */
+}
+.angela-text {
+    font-size: 1.5rem;
+}
+.textbox-angela{
+    font-size: 1.4rem;
+}
+.chatbox-img02 {
+    width: 18%;
+    /* display: flex;
+    align-items: center;
+    justify-content: center; */
+    margin-top: 0.8rem;
+}
+.jacob-Thompson {
+    width: 80%;
+}
+.jacob-text {
+    /* font-size: 1.3rem; */
+    padding-right: 3rem;
+}
+.chatbox-img03 {
+    margin-top: 0.8rem;
+    width: 15%;
+}
+.Rizky-Hasan {
+    width: 80%;
+}
+.paragraph {
+    background-color: white;
+    border: 1px solid black;
+}
+.rizky-para {
+    font-size: 1.36rem;
+}
+.chatbox-img04 {
+    margin-top: 0.8rem;
+    width: 18%;
+}
+/* .section-chatbox04 {
+} */
+.kimberly-pics {
+position: relative;
+width: 15%;
+margin-top: 1rem;
+
+}
+.image-chess {
+    width: 100%;
+    position: absolute;
+    top: 20%;
+    left: 50%;
+}
+.chatbox-img05 {
+    width: 30%;
+}
+.nathan {
+    width: 80%;
+}
+.textbox-para05 {
+    font-size:1.5rem;
+    font-weight:200;
+}
+.chatbox-img06 {
+    width:15%;
+}
+.Anna {
+    width: 80%;
+}
+.attribution {
+    /* padding: 10px; */
+    /* background-color: red; */
+    display: block;
+    /* margin-top: 10px; */
+}
+}
